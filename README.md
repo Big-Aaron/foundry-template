@@ -2,6 +2,10 @@
 
 This is a template for a Foundry project.
 
+```
+git clone --recursive https://github.com/Big-Aaron/foundry-template.git
+```
+
 ## Installation
 
 To install with [DappTools](https://github.com/dapphub/dapptools):
